@@ -1,0 +1,38 @@
+
+
+[
+  {
+    "title": "Card 1",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+  },
+  {
+    "title": "Card 2", 
+    "description": "Maecenas sed diam eget risus varius blandit sit amet non magna."
+  },
+  {
+    "title": "Card 3",
+    "description": "Donec id elit non mi porta gravida at eget metus." 
+  },
+  {
+    "title": "Card 4",
+    "description": "Etiam porta sem malesuada magna mollis euismod."
+  },
+  {
+    "title": "Card 5",
+    "description": "Cras mattis consectetur purus sit amet fermentum."
+  },
+  {
+    "title": "Card 6",
+    "description": "Aenean lacinia bibendum nulla sed consectetur."
+  }, 
+  {
+    "title": "Card 7",
+    "description": "Donec id elit non mi porta gravida at eget metus."
+  },
+  {
+    "title": "Card 8",
+    "description": "Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor."
+  }
+]
+
+Let me know if you need any other changes or have additional requirements!
